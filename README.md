@@ -1,2 +1,2 @@
 # nextjs-dashboard
-This is NextJs dashboard app,
+This is NextJs dashboard app.
